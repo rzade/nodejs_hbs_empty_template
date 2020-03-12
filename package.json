@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_hbs_empty_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git:push": "git add . && git commit -m 'last' && git push origin master"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
